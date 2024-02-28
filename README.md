@@ -4,4 +4,4 @@
 
 
 
-[Covid19 SQL Server Data Exploration](https://github.com/SandyGCabanes/SQLProject_Covid19_Data_Exploration)
+[Covid19 SQL Server Data Exploration](https://github.com/SandyGCabanes/SQLProject_Covid19_Data_Exploration/blob/main/README.md)
