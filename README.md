@@ -1,6 +1,6 @@
 # SQLPortfolioProjects
 
-[Apple Store Apps SQLite Data Exploration and Topline Insigts](https://github.com/SandyGCabanes/SQLProject_Apple_Store_Apps)
+[Apple Store Apps SQLite Data Exploration and Topline Insights](https://github.com/SandyGCabanes/SQLProject_Apple_Store_Apps/blob/main/README.md)
 
 
 
